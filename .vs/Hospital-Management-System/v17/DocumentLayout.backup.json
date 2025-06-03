@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\models\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\models\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\controllers\\prescriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\config\\patientconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\config\\patientconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\config\\appointmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\config\\appointmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\config\\personconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\config\\personconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\models\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\models\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\repository\\hospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\repository\\hospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\repository\\ihospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\repository\\ihospitalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\models\\medicalrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\models\\medicalrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\medical-record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\medical-record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\data\\prescriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\data\\prescriptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|c:\\users\\admin\\source\\repos\\hospital-management-system\\hospital-management-system\\models\\prescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504FBB67-2664-40E3-9AE1-20E320F7591C}|Hospital-Management-System\\Hospital-Management-System.csproj|solutionrelative:hospital-management-system\\models\\prescriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAGkAAAAgmJmZmZkwwH0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:02:13.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicalRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\MedicalRecordController.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Controllers\\MedicalRecordController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\MedicalRecordController.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Controllers\\MedicalRecordController.cs",
+              "ViewState": "AgIAAFgAAAAALTMzMzMpwIIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:08:38.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAEIAAADAzszMzMw8wJMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:53:27.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAF8AAAAAmZmZmZkvwIIAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:01:59.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrescriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\PrescriptionController.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Controllers\\PrescriptionController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\PrescriptionController.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Controllers\\PrescriptionController.cs",
+              "ViewState": "AgIAAIYAAAAAGAAAAAAIwIwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:45:41.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Configurations\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Configurations\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Configurations\\AutoMapperConfig.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Configurations\\AutoMapperConfig.cs",
+              "ViewState": "AgIAAAQAAACAl5mZmZkBwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:08:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Person.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Person.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:16:27.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Models\\PersonDTO.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Models\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Models\\PersonDTO.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Models\\PersonDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:22:23.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAHoAAACAkpmZmZkZwH8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:41:51.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAFsAAADAyszMzMwYwIIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:19:48.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Program.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:43:31.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Patient.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Patient.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:16:55.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\appsettings.json",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\appsettings.json",
+              "RelativeToolTip": "Hospital-Management-System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T16:52:14.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Doctor.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:50:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Appointment.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Appointment.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Appointment.cs",
+              "ViewState": "AgIAAAIAAADg//////8wwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:50:09.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HospitalDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\HospitalDBContext.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\HospitalDBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\HospitalDBContext.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\HospitalDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:52:13.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HospitalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Repository\\HospitalRepository.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Repository\\HospitalRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Repository\\HospitalRepository.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Repository\\HospitalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:33:07.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppointmentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Config\\AppointmentConfig.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Config\\AppointmentConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Config\\AppointmentConfig.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Config\\AppointmentConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:14:19.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Config\\PatientConfig.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Config\\PatientConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Config\\PatientConfig.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Config\\PatientConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:14:44.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Config\\PersonConfig.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Config\\PersonConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Config\\PersonConfig.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Config\\PersonConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:06:23.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Models\\AppointmentDTO.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Models\\AppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Models\\AppointmentDTO.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Models\\AppointmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:22:20.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Models\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Models\\APIResponse.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Models\\APIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:49:02.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Payment.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Payment.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Payment.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:17:23.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IHospitalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Repository\\IHospitalRepository.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Repository\\IHospitalRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Repository\\IHospitalRepository.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Repository\\IHospitalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:36:06.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MedicalRecordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Models\\MedicalRecordDTO.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Models\\MedicalRecordDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Models\\MedicalRecordDTO.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Models\\MedicalRecordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:23.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Medical-Record.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Medical-Record.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Medical-Record.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Medical-Record.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Medical-Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:06:22.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PrescriptionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Models\\PrescriptionDTO.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Models\\PrescriptionDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Models\\PrescriptionDTO.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Models\\PrescriptionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:41:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Prescriptions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Prescriptions.cs",
+              "RelativeDocumentMoniker": "Hospital-Management-System\\Data\\Prescriptions.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Hospital-Management-System\\Hospital-Management-System\\Data\\Prescriptions.cs",
+              "RelativeToolTip": "Hospital-Management-System\\Data\\Prescriptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:44:07.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
